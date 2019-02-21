@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goshop_content" />
+        <module name="goshop_dao" />
+        <module name="goshop_manager" />
+        <module name="goshop_page" />
+        <module name="goshop_po" />
+        <module name="goshop_search" />
+        <module name="goshop_server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="goshop_content" target="1.8" />
+      <module name="goshop_dao" target="1.8" />
+      <module name="goshop_manager" target="1.8" />
+      <module name="goshop_page" target="1.8" />
+      <module name="goshop_parent" target="1.8" />
+      <module name="goshop_po" target="1.8" />
+      <module name="goshop_search" target="1.8" />
+      <module name="goshop_server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="goshop_content" options="-parameters" />
+      <module name="goshop_dao" options="-parameters" />
+      <module name="goshop_manager" options="-parameters" />
+      <module name="goshop_page" options="-parameters" />
+      <module name="goshop_parent" options="-parameters" />
+      <module name="goshop_po" options="-parameters" />
+      <module name="goshop_search" options="-parameters" />
+      <module name="goshop_server" options="-parameters" />
+    </option>
+  </component>
+</project>

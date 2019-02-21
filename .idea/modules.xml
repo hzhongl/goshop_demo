@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/goshop_content/goshop_content.iml" filepath="$PROJECT_DIR$/goshop_content/goshop_content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop_dao/goshop_dao.iml" filepath="$PROJECT_DIR$/goshop_dao/goshop_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop_manager/goshop_manager.iml" filepath="$PROJECT_DIR$/goshop_manager/goshop_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop_page/goshop_page.iml" filepath="$PROJECT_DIR$/goshop_page/goshop_page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop_parent.iml" filepath="$PROJECT_DIR$/goshop_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop_po/goshop_po.iml" filepath="$PROJECT_DIR$/goshop_po/goshop_po.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop_search/goshop_search.iml" filepath="$PROJECT_DIR$/goshop_search/goshop_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop_server/goshop_server.iml" filepath="$PROJECT_DIR$/goshop_server/goshop_server.iml" />
+    </modules>
+  </component>
+</project>
